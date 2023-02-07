@@ -1,5 +1,3 @@
-# Project 1
+# Personal Project
 
-Welcome to project 1!
-
-For this project, you will be following the **Project 1 - VR Basics** section of the course curriculum. See the Canvas shell for details.
+This is the repository for your personal project and final project for the course. 
